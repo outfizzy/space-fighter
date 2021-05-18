@@ -14,3 +14,7 @@ SPACE - shoot
 
 ESC - exit to menu
 
+## Requirements
+- SFML 2.5.1
+- C++11 or greater
+
